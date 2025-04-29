@@ -1,0 +1,15 @@
+ git remote add origin https://github.com/tranbaoan8386/demo-git.git
+-> liên kết local(laptop) và remote(github)
+
+ git add -A
+ -> thêm tất cả vào stagging
+
+  git commit -m "message"
+ -> tạo commit (xác nhân) với nội dung là message
+
+ git push -u origin master
+ -> đẩy lần đầu (đẩy và publish nhánh master)
+
+ git push
+ -> đẩy commit lên remote
+ 
